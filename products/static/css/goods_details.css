@@ -1,0 +1,84 @@
+@charset "UTF-8";
+.margin {
+  margin: 0 0.45rem;
+  box-sizing: border-box;
+  padding: 0; }
+
+body {
+  width: 10.8rem;
+  background: #ebf0f3; }
+
+header {
+  box-sizing: border-box;
+  width: 10.8rem;
+  height: 1.68rem;
+  position: fixed;
+  left: 0;
+  top: 0; }
+  header .bg {
+    position: absolute;
+    width: 10.8rem;
+    height: 1.68rem;
+    background: #584f60;
+    opacity: 0; }
+  header .header_nav {
+    position: absolute;
+    width: 10.8rem;
+    height: 1.68rem; }
+    header .header_nav .cdup {
+      width: 1.05rem;
+      height: 1.05rem;
+      border-radius: 50%;
+      background: #8b8b8b;
+      position: absolute;
+      left: 0.55rem;
+      top: 0rem;
+      bottom: 0;
+      margin: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      header .header_nav .cdup img {
+        width: 0.4rem;
+        height: 0.4rem; }
+    header .header_nav .h3 {
+      position: absolute;
+      left: 1.28rem;
+      font: 0.48rem/1.68rem "微软雅黑";
+      color: #fff;
+      top: 0;
+      display: none; }
+    header .header_nav .home {
+      width: 1.05rem;
+      height: 1.05rem;
+      border-radius: 50%;
+      background: #8b8b8b;
+      position: absolute;
+      right: 1.75rem;
+      top: 0rem;
+      bottom: 0;
+      margin: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      header .header_nav .home img {
+        width: 0.49rem;
+        height: 0.44rem; }
+    header .header_nav .share {
+      width: 1.05rem;
+      height: 1.05rem;
+      border-radius: 50%;
+      background: #8b8b8b;
+      position: absolute;
+      right: 0.55rem;
+      top: 0rem;
+      bottom: 0;
+      margin: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      header .header_nav .share img {
+        width: 0.43rem;
+        height: 0.48rem; }
+
+/*# sourceMappingURL=goods_details.css.map */
