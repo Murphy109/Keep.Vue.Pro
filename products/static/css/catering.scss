@@ -8,7 +8,7 @@ body{
   width:10.8rem;
   background: #ebf0f3;
 }
-header{
+.header{
   box-sizing: border-box;
   width:10.8rem;
   height:1.68rem;
@@ -22,7 +22,7 @@ header{
     background: #584f60;
     opacity: 0;
   }
-  .header_nav{
+  .header_navs{
 
     position: absolute;
     width:10.8rem;
@@ -84,12 +84,13 @@ header{
   }
   .keyword{
     padding:0 0.45rem;
-    height:2.15rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
     border-bottom: 0.01rem solid #efefef;
     p{
+      margin: 0.2rem 0;
       padding:0.2rem 0.35rem;
       border:0.02rem solid #40d59d;
       color: #40d59d;

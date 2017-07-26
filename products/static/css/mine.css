@@ -7,7 +7,7 @@
 body {
   width: 10.8rem;
   background: #ebf0f3;
-  padding: 1.74rem 0 1.74rem 0; }
+  padding: 0 0 1.74rem 0; }
 
 .mines {
   width: 10.8rem;
@@ -35,6 +35,7 @@ body {
         height: 0.52rem; }
 
 .info {
+  margin-top: 1.74rem;
   padding: 0 0.45rem;
   box-sizing: border-box;
   width: 10.8rem;
@@ -74,7 +75,9 @@ body {
 .sport_info {
   background: #fff;
   padding-bottom: 0.8rem; }
-  .sport_info .sport_time {
+  .sport_info .sport_times {
+    margin: 0;
+    box-sizing: border-box;
     padding: 1.05rem 0.45rem;
     font: 0.36rem "微软雅黑"; }
   .sport_info .sport_items {
@@ -119,18 +122,17 @@ body {
       width: 0.2rem;
       height: 0.36rem; }
   .health_data .data_items {
+    padding: 0 0.45rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
     text-align: center; }
-    .health_data .data_items .item {
-      padding: 0 0.68rem; }
-      .health_data .data_items .item img {
-        width: 0.7rem;
-        height: 0.7rem; }
-      .health_data .data_items .item p {
-        padding: 0.3rem 0 0.6rem 0;
-        font: 0.3rem "微软雅黑"; }
+    .health_data .data_items .item img {
+      width: 0.7rem;
+      height: 0.7rem; }
+    .health_data .data_items .item p {
+      padding: 0.3rem 0 0.6rem 0;
+      font: 0.3rem "微软雅黑"; }
 
 .emblem {
   display: flex;

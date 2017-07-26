@@ -25,7 +25,7 @@ body {
     .index_nav ul li {
       border-bottom: 0.06rem solid #fff; }
       .index_nav ul li p {
-        font: 0.42rem/1.5rem "微软雅黑";
+        font: 0.42rem/1.4rem "微软雅黑";
         padding: 0 0.7rem;
         color: #584f60;
         border-bottom: 0.06rem solid #fff; }
@@ -45,9 +45,9 @@ body {
 
         */
 .sport_time {
+  margin-top: 1.64rem;
   width: 10.8rem;
   background: #fff;
-  margin-top: 1.63rem;
   border-bottom: 0.01rem solid #eaeaea; }
   .sport_time .cont .title {
     padding: 0.5rem 0 0.1rem 0;
@@ -64,7 +64,7 @@ body {
   .sport_time .cont .chart {
     padding-bottom: 0.26rem;
     display: flex;
-    align-items: center;
+    align-items: baseline;
     justify-content: space-between; }
     .sport_time .cont .chart .chart_component {
       display: flex;
@@ -196,8 +196,8 @@ body {
 .recording {
   width: 10.8rem;
   background: #fff;
-  margin-top: 1.63rem;
-  border-bottom: 0.01rem solid #eaeaea; }
+  border-bottom: 0.01rem solid #eaeaea;
+  margin-top: 1.64rem; }
   .recording .top {
     background: #fff;
     padding-top: 1.12rem;
@@ -326,7 +326,6 @@ body {
 .cyc_recording {
   width: 10.8rem;
   background: #fff;
-  margin-top: 1.63rem;
   border-bottom: 0.01rem solid #eaeaea; }
   .cyc_recording .top {
     background: #fff;

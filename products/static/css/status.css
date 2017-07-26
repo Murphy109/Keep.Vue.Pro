@@ -7,7 +7,7 @@
 body {
   width: 10.8rem;
   background: #ebf0f3;
-  padding: 1.64rem 0 1.6rem 0; }
+  padding: 0 0 1.6rem 0; }
 
 .status_nav {
   border-bottom: 0.01rem solid #d2d2d2;
@@ -46,6 +46,7 @@ body {
 
 */
 .hot_banner {
+  margin-top: 1.64rem;
   width: 10.8rem;
   height: 5.76rem; }
   .hot_banner .swiper-container .swiper-wrapper .swiper-slide img {

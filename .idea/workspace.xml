@@ -2,196 +2,160 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1cf079f-d299-47d2-9429-cf4933ada440" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/static/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/static/css/index.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/static/css/index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/static/css/mine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/static/css/mine.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/static/css/mine.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/static/js/index.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/App.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/css/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/css/index.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/css/mine.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/css/mine.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/css/mine.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/static/js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/service/DINGAdService.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/service/DINGCont.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/service/WorkService.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/chart.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/chart.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/chart.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/contact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/contact.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/contact.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/daily.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/daily.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/daily.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/ding.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/ding.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/ding.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/highcharts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/index-副本.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/index-副本.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/index-副本.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/management.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/management.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/management.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/more.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/more.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/more.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/work.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/work.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/work.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/dingPans.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/logins.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic101.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic102.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic103.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic104.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic105.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic106.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic107.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic108.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic109.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic110.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic111.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic112.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic113.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic115.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic116.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic117.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic118.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic119.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic120.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic121.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic122.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic123.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic56.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic58.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic59.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic61.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic62.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic63.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic65.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic66.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic67.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic68.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic69.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic71.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic73.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic74.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic75.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic77.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic78.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic79.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic80.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic81.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic82.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic83.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic84.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic85.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic86.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic87.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic88.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic89.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic90.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic91.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic92.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic94.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic95.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic97.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic98.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/pic99.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/calendar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/jquery-1.8.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/swiper.jquery.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/GoodsDetails/ClothesBanner.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/GoodsDetails/GoodsDetailHeader.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/GoodsDetails/GoodsMsg.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/GoodsDetails/KeepSays.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/GoodsDetails/Notes.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/GoodsDetails/Specification.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/GoodsDetails/Submit.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/KeepFooter.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/ShoppingCart/Cart.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/ShoppingCart/FooterAccount.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/ShoppingCart/HeaderNav.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/ShoppingCart/ShopCartContain.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/cater/CaterCooking.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/cater/CaterFoodMaterial.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/cater/CaterGeneral.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/cater/CaterHeader.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/DiscoveringHeader.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/DiscoveringNav.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/DiscoveringSwiper.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/Shop.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/SwiperChoice.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/SwiperDiet.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/SwiperTrain.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/choice/SwiperArticle.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/choice/SwiperBanner.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/choice/SwiperGroups.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/choice/SwiperHot.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/choice/SwiperIntelligent.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/choice/SwiperStrategy.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/choice/SwiperTopic.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/diet/DrinkImg.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/diet/DrinkTitle.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/diet/SwiperBanner.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/diet/SwiperDrink.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/diet/SwiperNav.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/shop/AthleticUndergarment.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/shop/CoupleTShirt.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/shop/LeisureTShirt.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/shop/ShopBanner.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/shop/ShopLibNav.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/shop/ShopNotice.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/shop/SingleGoods.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/shop/SportsTShirt.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/shop/TShirt.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/shop/TShirtContain.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/train/NewsImg.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/train/SwiperBanner.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/train/SwiperNav.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/train/SwiperNew.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/discovering/swiper/train/SwiperNews.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexDrill/IndexDrill.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexDrill/IndexDrillBanner.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexDrill/IndexDrillCourse.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexDrill/IndexDrillDaily.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexDrill/IndexDrillRecommend.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexDrill/IndexDrillTraining.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRiding/IndexRiding.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRiding/IndexRidingCenter.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRiding/IndexRidingTab.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRiding/IndexRidingTop.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunning.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunningAbout.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunningAboutAbouts.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunningAboutTitle.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunningRecording.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunningRecordingBottom.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunningRecordingCenter.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunningRecordingTab.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunningRecordingTop.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunningRoute.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunningRouteFindmore.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunningRouteRoutes.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunningRouteTitle.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/IndexSwiper.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/index/indexHeader.VUE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/mine/MineDiscountCoupon.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/mine/MineEmblem.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/mine/MineHealthData.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/mine/MineInfo.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/mine/MineMines.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/mine/MineMyActivities.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/mine/MineMyCollect.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/mine/MineMyGroup.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/mine/MineProfiles.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/mine/MinePurchaseHistory.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/mine/MineShoppingCart.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/mine/MineSportInfo.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/mine/MineTrainingDiary.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/mine/MineWeeklyGoals.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/status/StatusBody.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/status/StatusBody/StatusBodyOneAudio.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/status/StatusBody/StatusBodyOneGoods.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/status/StatusBody/StatusBodyOneList.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/components/status/StatusHeader.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/pages/Cater.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/pages/DiscoveringPages.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/pages/GoodsDetails.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/pages/Mine.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/pages/ShoppingCart.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/pages/Status.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/DiscoveringService/ArticleService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/DiscoveringService/BanService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/DiscoveringService/BannService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/DiscoveringService/BannerService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/DiscoveringService/DietService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/DiscoveringService/GroupsService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/DiscoveringService/HotService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/DiscoveringService/IntelligentService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/DiscoveringService/NewsService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/DiscoveringService/ShopCartService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/DiscoveringService/StrategyService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/DiscoveringService/TopicService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/IndexService/AboutService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/IndexService/BannerService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/IndexService/CourseService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/IndexService/DailyService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/IndexService/RecommendService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/IndexService/RoutesService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/IndexService/TrainingService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/service/StatusService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/static/css/shopping_cart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/static/css/shopping_cart.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/static/css/shopping_cart.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/static/css/swiper.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/static/js/swiper.min.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/static/js/catering.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/static/js/discovering.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/static/js/goods_details.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/static/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/static/js/mine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products/static/js/status.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/App.vue" afterPath="$PROJECT_DIR$/products/App.vue" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/constants/DINGCommon.js" afterPath="$PROJECT_DIR$/products/constants/DINGCommon.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/main.js" afterPath="$PROJECT_DIR$/products/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/service/BlockService.jsx" afterPath="$PROJECT_DIR$/products/service/BlockService.jsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/static/css/public.css" afterPath="$PROJECT_DIR$/products/static/css/public.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/static/css/public.css.map" afterPath="$PROJECT_DIR$/products/static/css/public.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/static/css/public.scss" afterPath="$PROJECT_DIR$/products/static/css/public.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/static/css/swiper.css" afterPath="$PROJECT_DIR$/products/static/css/swiper.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/static/js/common.js" afterPath="$PROJECT_DIR$/products/static/js/common.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/static/js/swiper.js" afterPath="$PROJECT_DIR$/products/static/js/swiper.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/utils/fetchApi.js" afterPath="$PROJECT_DIR$/products/utils/fetchApi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/App.vue" afterPath="$PROJECT_DIR$/products/App.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/main.js" afterPath="$PROJECT_DIR$/products/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/catering.css" afterPath="$PROJECT_DIR$/products/static/css/catering.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/catering.css.map" afterPath="$PROJECT_DIR$/products/static/css/catering.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/catering.scss" afterPath="$PROJECT_DIR$/products/static/css/catering.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/goods_details.css" afterPath="$PROJECT_DIR$/products/static/css/goods_details.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/goods_details.css.map" afterPath="$PROJECT_DIR$/products/static/css/goods_details.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/goods_details.scss" afterPath="$PROJECT_DIR$/products/static/css/goods_details.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/index.css" afterPath="$PROJECT_DIR$/products/static/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/index.css.map" afterPath="$PROJECT_DIR$/products/static/css/index.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/index.scss" afterPath="$PROJECT_DIR$/products/static/css/index.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/mine.css" afterPath="$PROJECT_DIR$/products/static/css/mine.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/mine.css.map" afterPath="$PROJECT_DIR$/products/static/css/mine.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/mine.scss" afterPath="$PROJECT_DIR$/products/static/css/mine.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/status.css" afterPath="$PROJECT_DIR$/products/static/css/status.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/status.css.map" afterPath="$PROJECT_DIR$/products/static/css/status.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/static/css/status.scss" afterPath="$PROJECT_DIR$/products/static/css/status.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/products/constants/DINGCommon.js" afterPath="$PROJECT_DIR$/products/constants/KeepCommon.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/products/service/BlockService.jsx" afterPath="$PROJECT_DIR$/products/service/DiscoveringService/ShopService.js" />
     </list>
     <ignored path="KEEP.Vue.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -212,11 +176,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="fetchApi.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products/utils/fetchApi.js">
+      <file leaf-file-name="Cater.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/pages/Cater.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="-1.051282">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaterCooking.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/products/components/cater/CaterCooking.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.59850377">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaterFoodMaterial.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/components/cater/CaterFoodMaterial.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaterGeneral.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/components/cater/CaterGeneral.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="4.6153846">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.3076923">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DrinkImg.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/components/discovering/swiper/diet/DrinkImg.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.0769231">
+              <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/pages/Index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7692308">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiscoveringPages.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/pages/DiscoveringPages.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.7692308">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaterHeader.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/components/cater/CaterHeader.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.6153846">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -226,27 +270,7 @@
         <entry file="file://$PROJECT_DIR$/products/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.vue" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/products/App.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4054054">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.1538463">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <caret line="30" column="38" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -258,6 +282,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="vuefile" />
       </list>
     </option>
   </component>
@@ -267,10 +293,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/products/main.js" />
+        <option value="$PROJECT_DIR$/products/service/IndexService/TrainingService.js" />
+        <option value="$PROJECT_DIR$/products/components/index/IndexDrill/IndexDrillRecommend.vue" />
+        <option value="$PROJECT_DIR$/products/service/IndexService/DailyServer.js" />
+        <option value="$PROJECT_DIR$/products/service/IndexService/CourseService.js" />
+        <option value="$PROJECT_DIR$/products/service/IndexService/RoutesService.js" />
+        <option value="$PROJECT_DIR$/products/service/IndexService/AboutService.js" />
+        <option value="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunningAboutAbouts.vue" />
+        <option value="$PROJECT_DIR$/products/service/IndexService/BannerService.js" />
+        <option value="$PROJECT_DIR$/products/components/index/IndexDrill/IndexDrillCourse.vue" />
+        <option value="$PROJECT_DIR$/products/components/index/IndexDrill/IndexDrillDaily.vue" />
+        <option value="$PROJECT_DIR$/products/components/index/IndexDrill/IndexDrillTraining.vue" />
+        <option value="$PROJECT_DIR$/products/components/index/IndexRunning/IndexRunningRouteRoutes.vue" />
+        <option value="$PROJECT_DIR$/products/components/index/IndexDrill/IndexDrillBanner.vue" />
+        <option value="$PROJECT_DIR$/products/components/index/IndexSwiper.vue" />
+        <option value="$PROJECT_DIR$/products/static/js/index.js" />
+        <option value="$PROJECT_DIR$/products/static/js/discovering.js" />
+        <option value="$PROJECT_DIR$/products/components/discovering/Shop.vue" />
+        <option value="$PROJECT_DIR$/products/components/discovering/swiper/shop/CoupleTShirt.vue" />
+        <option value="$PROJECT_DIR$/products/components/discovering/DiscoveringSwiper.vue" />
+        <option value="$PROJECT_DIR$/products/components/discovering/swiper/Shop.vue" />
+        <option value="$PROJECT_DIR$/products/components/discovering/swiper/SwiperChoice.vue" />
+        <option value="$PROJECT_DIR$/products/components/discovering/swiper/SwiperDiet.vue" />
+        <option value="$PROJECT_DIR$/products/pages/ShoppingCart.vue" />
+        <option value="$PROJECT_DIR$/products/service/DiscoveringService/ShopService.js" />
+        <option value="$PROJECT_DIR$/products/service/DiscoveringService/ShopCartService.js" />
+        <option value="$PROJECT_DIR$/products/static/css/goods_details.scss" />
+        <option value="$PROJECT_DIR$/products/components/GoodsDetails/GoodsMsg.vue" />
+        <option value="$PROJECT_DIR$/products/static/css/discovering.scss" />
         <option value="$PROJECT_DIR$/products/App.vue" />
+        <option value="$PROJECT_DIR$/products/pages/index.vue" />
+        <option value="$PROJECT_DIR$/products/pages/DiscoveringPages.vue" />
+        <option value="$PROJECT_DIR$/products/components/ShoppingCart/HeaderNav.vue" />
+        <option value="$PROJECT_DIR$/products/components/GoodsDetails/GoodsDetailHeader.vue" />
+        <option value="$PROJECT_DIR$/products/static/css/index.scss" />
+        <option value="$PROJECT_DIR$/products/static/css/shopping_cart.scss" />
+        <option value="$PROJECT_DIR$/products/constants/KeepCommon.js" />
+        <option value="$PROJECT_DIR$/products/components/KeepFooter.vue" />
+        <option value="$PROJECT_DIR$/products/pages/Mine.vue" />
+        <option value="$PROJECT_DIR$/products/components/status/StatusBody/StatusBodyOneGoods.vue" />
+        <option value="$PROJECT_DIR$/products/components/status/StatusBody.vue" />
+        <option value="$PROJECT_DIR$/products/pages/Status.vue" />
+        <option value="$PROJECT_DIR$/products/static/css/status.scss" />
+        <option value="$PROJECT_DIR$/products/static/css/mine.scss" />
+        <option value="$PROJECT_DIR$/products/components/mine/MineSportInfo.vue" />
+        <option value="$PROJECT_DIR$/products/main.js" />
+        <option value="$PROJECT_DIR$/products/static/css/catering.scss" />
+        <option value="$PROJECT_DIR$/products/components/discovering/swiper/diet/DrinkImg.vue" />
+        <option value="$PROJECT_DIR$/products/components/cater/CaterHeader.vue" />
+        <option value="$PROJECT_DIR$/products/pages/Cater.vue" />
+        <option value="$PROJECT_DIR$/products/pages/Index.vue" />
+        <option value="$PROJECT_DIR$/products/components/cater/CaterCooking.vue" />
       </list>
     </option>
   </component>
@@ -332,6 +405,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -364,14 +439,216 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep.Vue.Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep.Vue.Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep.Vue.Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep.Vue.Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep.Vue.Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="constants" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep.Vue.Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep.Vue.Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="status" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep.Vue.Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="discovering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep.Vue.Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="discovering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swiper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep.Vue.Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -383,12 +660,19 @@
     <property name="jsx.switch.disabled" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\kuangjia\vue\Keep.Vue.Pro\products\service" />
+      <recent name="E:\kuangjia\vue\Keep.Vue.Pro\products\pages" />
+      <recent name="E:\kuangjia\vue\Keep.Vue.Pro\products\components" />
+      <recent name="E:\kuangjia\vue\Keep.Vue.Pro\products\static" />
+      <recent name="E:\kuangjia\vue\Keep.Vue.Pro\products\service\DiscoveringService" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\kuangjia\vue\Keep.Vue.Pro\products\components\discovering\swiper" />
+      <recent name="E:\kuangjia\vue\Keep.Vue.Pro\products\components\discovering" />
+      <recent name="E:\kuangjia\vue\Keep.Vue.Pro\products\service\IndexService" />
       <recent name="E:\kuangjia\vue\Keep.Vue.Pro\products" />
       <recent name="E:\kuangjia\vue\Keep.Vue.Pro" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\KEEP.Vue" />
     </key>
   </component>
   <component name="RunManager">
@@ -455,17 +739,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14955357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22767857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1982906" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -494,7 +780,31 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/products/components/GoodsDetails/GoodsDetailHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0769231">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/constants/KeepCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82107353">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/mine/MineTrainingDiary.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.794872">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/mine/MineWeeklyGoals.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -502,7 +812,231 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+    <entry file="file://$PROJECT_DIR$/products/components/status/StatusHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/service/StatusService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/KeepFooter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1605415">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/pages/Mine.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.3846154">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/status/StatusBody/StatusBodyOneGoods.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.384615">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/status/StatusBody/StatusBodyOneList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="19.153847">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/status/StatusBody.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.923077">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/status/StatusBody/StatusBodyOneAudio.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="16.076923">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/pages/Status.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0769231">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/static/css/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-84.10256">
+          <caret line="248" column="11" selection-start-line="248" selection-start-column="11" selection-end-line="248" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/static/css/discovering.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.74359">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/static/css/goods_details.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6153846">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/static/css/public.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/static/css/shopping_cart.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/static/css/status.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5384616">
+          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/static/css/mine.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="93" column="14" selection-start-line="93" selection-start-column="3" selection-end-line="93" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/mine/MineHealthData.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.3076923">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/mine/MineEmblem.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.6153846">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/mine/MineDiscountCoupon.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.6153846">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/mine/MineSportInfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32697546">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/mine/MineShoppingCart.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/mine/MinePurchaseHistory.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/mine/MineProfiles.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/mine/MineMyGroup.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/mine/MineMyCollect.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/mine/MineMyActivities.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/mine/MineMines.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32697546">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/mine/MineInfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.49046323">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/discovering/swiper/diet/SwiperDrink.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -512,168 +1046,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/products/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.7692308">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/constants/DINGCommon.js">
+    <entry file="file://$PROJECT_DIR$/products/static/css/catering.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-4.6153846">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/products/components/discovering/swiper/diet/DrinkImg.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/constants/DINGCommon.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/constants/DINGCommon.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53859967">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/static/js/goods_details.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/static/js/discovering.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/static/js/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/static/js/catering.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/static/js/swiper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/static/js/status.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/static/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/static/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/static/js/mine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/service/BlockService.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/utils/fetchApi.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.1538463">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state vertical-scroll-proportion="-3.0769231">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -681,15 +1071,71 @@
     <entry file="file://$PROJECT_DIR$/products/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/App.vue">
+    <entry file="file://$PROJECT_DIR$/products/pages/Index.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4054054">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.7692308">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/pages/DiscoveringPages.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7692308">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/pages/Cater.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.051282">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/cater/CaterHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6153846">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/cater/CaterGeneral.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.6153846">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/cater/CaterFoodMaterial.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/components/cater/CaterCooking.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59850377">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
           <folding />
         </state>
       </provider>

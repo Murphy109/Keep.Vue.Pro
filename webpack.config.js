@@ -3,10 +3,10 @@ const path = require("path");
 const webpack = require("webpack");
 
 module.exports = {
-    entry:[path.resolve(__dirname,"components/main")],
+    entry:[path.resolve(__dirname,"products/main")],
     output:{
         filename:"main.bundle.js",
-        path:path.resolve(__dirname,"components")
+        path:path.resolve(__dirname,"build")
     },
     resolve:{
         alias:{
@@ -16,7 +16,10 @@ module.exports = {
     module:{
         rules:[
             {test:/\.css$/,loader:"style-loader!css-loader",exclude:/node_modules/},
-            {test:/\.vue$/,loader:"vue-loader",exclude:/node_modules/}
+            {test:/\.vue$/,loader:"vue-loader",exclude:/node_modules/},
+            {test:/\.(eot|svg|ttf|woff)$/,loader:"url-loader"},
+            {test:/\.(gif|jpg|png|jpeg)$/,loader:"url-loader"},
+            {test:/\.js$/,loader:"babel-loader",query:{presets:["es2015","stage-2"]},exclude:/node_modules/}
         ]
     }
 }

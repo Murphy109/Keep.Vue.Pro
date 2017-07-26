@@ -8,24 +8,24 @@ body {
   width: 10.8rem;
   background: #ebf0f3; }
 
-header {
+.header {
   box-sizing: border-box;
   width: 10.8rem;
   height: 1.68rem;
   position: fixed;
   left: 0;
   top: 0; }
-  header .bg {
+  .header .bg {
     position: absolute;
     width: 10.8rem;
     height: 1.68rem;
     background: #584f60;
     opacity: 0; }
-  header .header_nav {
+  .header .header_navs {
     position: absolute;
     width: 10.8rem;
     height: 1.68rem; }
-    header .header_nav .cdup {
+    .header .header_navs .cdup {
       position: absolute;
       left: 0.55rem;
       top: 0rem;
@@ -33,14 +33,14 @@ header {
       height: 0.4rem;
       bottom: 0;
       margin: auto; }
-    header .header_nav .h3 {
+    .header .header_navs .h3 {
       position: absolute;
       left: 1.28rem;
       font: 0.48rem/1.68rem "微软雅黑";
       color: #fff;
       top: 0;
       display: none; }
-    header .header_nav .favorite {
+    .header .header_navs .favorite {
       position: absolute;
       right: 1.75rem;
       top: 0rem;
@@ -48,7 +48,7 @@ header {
       height: 0.48rem;
       bottom: 0;
       margin: auto; }
-    header .header_nav .share {
+    .header .header_navs .share {
       position: absolute;
       right: 0.55rem;
       top: 0rem;
@@ -73,12 +73,13 @@ header {
     padding: 0 0.45rem; }
   .general .keyword {
     padding: 0 0.45rem;
-    height: 2.15rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
     border-bottom: 0.01rem solid #efefef; }
     .general .keyword p {
+      margin: 0.2rem 0;
       padding: 0.2rem 0.35rem;
       border: 0.02rem solid #40d59d;
       color: #40d59d;

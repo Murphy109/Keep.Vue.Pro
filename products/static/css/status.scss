@@ -7,7 +7,7 @@
 body{
   width:10.8rem;
   background: #ebf0f3;
-  padding:1.64rem 0 1.6rem 0;
+  padding:0 0 1.6rem 0;
 }
 
 .status_nav{
@@ -57,6 +57,7 @@ body{
 
 
 .hot_banner{
+  margin-top: 1.64rem;
   width:10.8rem;
   height:5.76rem;
   .swiper-container{
