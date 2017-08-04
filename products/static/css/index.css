@@ -65,7 +65,8 @@ body {
     padding-bottom: 0.26rem;
     display: flex;
     align-items: baseline;
-    justify-content: space-between; }
+    justify-content: space-between;
+    height: 2.56rem; }
     .sport_time .cont .chart .chart_component {
       display: flex;
       flex-direction: column;
@@ -80,8 +81,9 @@ body {
       .sport_time .cont .chart .chart_component .change {
         border-radius: 0.12rem;
         width: 0.24rem;
-        height: 2.12rem;
-        background: #24c68a; }
+        height: 0rem;
+        background: #24c68a;
+        margin-top: 2.12rem; }
 
 .ranking {
   width: 10.8rem;

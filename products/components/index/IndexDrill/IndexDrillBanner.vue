@@ -31,10 +31,13 @@
         },
         updated:function(){
             var list=$(".chart").children();
-//            console.log(list)
             for(var i=0;i<list.length;i++){
-                list.eq(i).css("height",this.items[i].number+"rem");
-//                console.log(this.items[i].number)
+                list.eq(i).children().eq(0).stop().animate({
+                            height:this.items[i].number+"rem",
+                            marginTop:(2.12-this.items[i].number)+"rem"
+                        },
+                        1000)
+//                list.eq(i).children().eq(0).css("height",this.items[i].number+"rem");
             }
         },
         methods:{

@@ -95,7 +95,7 @@
                     mySwiper2.slideTo(num, 1000, false);
                 })
             });
-            window.addEventListener("scroll",  function() {
+            window.onscroll=function() {
                 var lamp=1;
                 if(document.body.scrollTop>50){
                     if(lamp){
@@ -108,7 +108,7 @@
                         document.querySelector(".discover_nav").style.position='static';
                     }
                 }
-            });
+            };
         }
     }
 </script>

@@ -18,9 +18,6 @@
         },
         mounted: function () {
             window.onload=function(){
-//                var mySwiper = new Swiper ('.swiper-container', {
-//                    autoHeight: true,
-//                })
                 $(".swiper-wrapper").css("height","100%");
             }
             var mySwiper = new Swiper ('.swiper-container', {

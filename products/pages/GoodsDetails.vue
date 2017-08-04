@@ -33,7 +33,7 @@
             var mySwiper99 = new Swiper('.swiper-container99', {
                 autoHeight: true,
             });
-            window.addEventListener("scroll",  function() {
+            window.onscroll=function() {
                 var lamp=1;
                 if(document.body.scrollTop>50){
                     if(lamp){
@@ -54,7 +54,7 @@
                         document.querySelector(".share").style.background="#584f60";
                     }
                 }
-            });
+            };
         }
     }
 </script>

@@ -79,6 +79,7 @@ body{
       display: flex;
       align-items: baseline;
       justify-content: space-between;
+      height:2.56rem;
       .chart_component{
         display: flex;
         flex-direction: column;
@@ -95,8 +96,9 @@ body{
         .change{
           border-radius: 0.12rem;
           width:0.24rem;
-          height:2.12rem;
+          height:0rem;
           background: #24c68a;
+          margin-top: 2.12rem;
         }
       }
     }

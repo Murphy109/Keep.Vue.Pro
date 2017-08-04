@@ -22,7 +22,7 @@
             CaterCooking,
         },
         mounted:function (){
-            window.addEventListener("scroll",  function() {
+            window.onscroll=function() {
                 var lamp=1;
                 if(document.body.scrollTop>50){
                     if(lamp){
@@ -37,7 +37,7 @@
                         document.querySelector(".h3").style.display="none";
                     }
                 }
-            });
+            };
         }
     }
 </script>
